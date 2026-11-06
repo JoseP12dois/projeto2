@@ -1,0 +1,68 @@
+
+/* Fundo da página */
+body {
+    background-color: lightgray;
+    font-family: Arial, sans-serif;
+    margin: 30px;
+}
+
+/* Título principal */
+h1 {
+    color: darkred;
+    text-align: center;
+    font-family: Georgia, serif;
+}
+
+/* Subtítulos */
+h2 {
+    color: black;
+    font-family: Arial, sans-serif;
+}
+
+/* Parágrafos */
+p {
+    color: black;
+    font-size: 16px;
+}
+
+/* Parágrafo em destaque */
+.destaque {
+    background-color: white;
+    color: darkred;
+    margin: 20px;
+    padding: 15px;
+}
+
+/* Lista de personagens */
+li {
+    color: darkred;
+    margin: 10px;
+}
+
+/* Imagens da série */
+img {
+    width: 400px;
+    border: 3px solid darkred;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+/* Hiperligação */
+a {
+    color: darkred;
+    font-weight: bold;
+}
+
+/*
+Desafio Técnico:
+A regra CSS mais difícil foi aplicar a classe destaque.
+Consegui resolver colocando um ponto antes do nome da classe.
+
+Correção de Sintaxe:
+O erro mais comum foi esquecer os pontos e vírgulas
+no final de algumas regras CSS.
+
+Autoria:
+O atributo src serve para indicar o caminho da imagem
+que queremos apresentar numa página web.
+*/
